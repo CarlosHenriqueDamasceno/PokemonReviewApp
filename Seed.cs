@@ -1,5 +1,5 @@
 using Data;
-using Model;
+using Models;
 public class Seed
 {
     private readonly DataContext dataContext;
